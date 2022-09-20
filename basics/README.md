@@ -1,1 +1,1 @@
-Script for listing contents of your directory
+Script for returning to home directory
