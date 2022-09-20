@@ -1,1 +1,1 @@
-Script for returning to home directory
+Script for directory contents in long format
