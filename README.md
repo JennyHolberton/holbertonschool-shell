@@ -1,1 +1,1 @@
-This repo is for the shell, basics project
+This file contains shell permissions scripts
