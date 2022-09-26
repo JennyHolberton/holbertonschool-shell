@@ -1,0 +1,1 @@
+0. Hello World: Print "Hello, World", 1. Confused smiley: Print a smiley face, 2. Lets display: display contents of a file, 3. What about 2?: Display contents of multiple files, 4. Last lines of a file: Display last lines of a file, 5. I\d prefer the first ones actually: Display first lines of a file, 6.... Using IO
