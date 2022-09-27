@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n | cut -c 1
+echo cut -c 1
