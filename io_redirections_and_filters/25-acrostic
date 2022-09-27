@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | cut --output-delimiter=STRING
+cut -c 1
