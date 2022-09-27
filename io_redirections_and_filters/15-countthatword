@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l | grip bin /etc/passwd
+grip bin /etc/passwd | wc -l
