@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | rev | cut -type d | sort
+find . -type f | cut -type d | sort
