@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -type f -empty | ls -A1 | sort
+find . -type f | rev | cut -type d | sort
+
