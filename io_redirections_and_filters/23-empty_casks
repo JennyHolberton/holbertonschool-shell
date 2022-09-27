@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty | ls -A1 | sort
+find . -empty  -type f | ls -A1 | sort
