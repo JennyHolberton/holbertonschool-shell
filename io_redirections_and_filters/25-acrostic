@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ' ' -f1 | cut -c -1 | tr -d "[:space:]" | echo \n
+cut -d ' ' -f1 | cut -c -1 | tr -d "[:space:]" | echo -e "\n"
