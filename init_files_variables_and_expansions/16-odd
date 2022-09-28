@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "\n" ":" | grep ":"
+tr "\n" ":" | cut -d ":" -f 2 -s
