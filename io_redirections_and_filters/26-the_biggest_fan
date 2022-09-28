@@ -1,2 +1,2 @@
 #!/bin/bash
-rev | sort -u -t' ' -k1,1
+sort | uniq -c
