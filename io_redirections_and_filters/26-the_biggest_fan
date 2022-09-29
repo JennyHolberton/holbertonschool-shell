@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d$'\t' | sort | uniq -c | sort -nr | tail -n 11 | rev | cut -d ' ' -f1
+cut -d$'\t' file1.tsv | sort | uniq -c | sort -nr | tail -n 11 | rev | cut -d ' ' -f1
